@@ -14,4 +14,5 @@ while(c < 4000000):
     b = c
     if c%2==0:
         total = total + c
+    print(c) ## To print the series
 print(total)
